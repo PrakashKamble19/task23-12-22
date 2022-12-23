@@ -1,0 +1,20 @@
+
+
+___________________________________________________________
+
+This is readme file 
+
+Date 23-12-2022
+
+Todays Task   
+	1.Add a new files Test.txt, ReadMe.txt to the repo
+	2. Add a file to the staging environment
+	3. Create a commit
+	4. Create a new branch
+	5. Create a new repository on GitHub
+	6. Push a branch to GitHub
+	7. Create a pull request (PR)
+	8. Merge a PR
+	9. Get changes on GitHub back to your computer
+
+____________________________________________________________
